@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @igordantas-dev
-- 👀 I’m interested in  expor meus projetos pessoais e  aprender com os projetos de  outras pessoas.
-- 🌱 I’m currently learning Python, HTML e CSS e Lógica da Programação.
-- 💞️ I’m looking to collaborate on  projetos que necessitem de desenvolvedores júniors.
+- 👋 Olá, eu sou @igordantas-dev, estudante de Informática para Internet integrado ao ensino médio no IFTO - campus Plamas.
+- 👀 Estou interessado em expor meus projetos pessoais e  aprender com os projetos de  outras pessoas.
+- 🌱 Atualmente estou aprendendo Python, HTML e CSS e Lógica da Programação.
+- 💞️ Almejo colaborar em projetos com Python ou HTML, CSS e Javascript.
 - 📫  Como me encontrar: igordantas.scripts@gmail.
 
 <!---
