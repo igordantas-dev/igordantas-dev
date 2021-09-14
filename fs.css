@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#topo{
+    background-color: rgb(60, 36, 88);
+    height: 80pt;
+}
+
+#lateralesquerda{
+    background-color: rgb(151, 76, 221);
+    width: 170pt;
+    position: absolute;
+}
+
+#lateraldireita{
+    background-color: rgb(194, 138, 194);
+    margin-left: 170pt;
+    width: 841.7pt;
+}
+
+#lateralesquerda, #lateraldireita{
+    min-height: 1000pt;
+    display: inline-block;   
+}
+
+#onlyatest{
+    height: 500px;
+    width: 500px;
+    margin: 2em 20em auto 20em;
+}
